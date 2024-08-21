@@ -1,0 +1,155 @@
+
+.ssа{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #4169E1 solid 3px;
+    background: -webkit-linear-gradient(45deg, rgb(22, 129, 21), rgb(86, 181, 184));
+    background: -moz-linear-gradient(45deg, rgb(22, 129, 21), rgb(86, 181, 184));
+    background: linear-gradient(45deg, rgb(22, 129, 21), rgb(86, 181, 184));
+    color: black;
+    display: inline-flex;
+}
+.time{
+    margin-left: 350px;
+    border: #4169E1;
+    background: rgb(22, 129, 21);
+}
+
+
+
+
+html{
+    background: -webkit-linear-gradient(45deg, rgb(22, 129, 21), rgb(86, 181, 184));
+    background: -moz-linear-gradient(45deg, rgb(22, 129, 21), rgb(86, 181, 184));
+    background: linear-gradient(45deg, rgb(22, 129, 21), rgb(86, 181, 184));
+}
+
+body{
+    font-size: 20px;
+}
+
+header{
+
+}
+
+footer{
+
+}
+
+h1{
+    font-size: 25px;
+}
+
+.tenor-gif-embed{
+    display: inline-flex;
+}
+
+.a{
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    display: inline-flex;
+}
+.s{
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    display: inline-flex;
+}
+.d{
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    display: inline-flex;
+}
+.f{
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    display: inline-flex; 
+}
+.g{
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    display: inline-flex;
+}
+.h{
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    display: inline-flex;
+}
+
+.j{
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+    display: inline-flex;
+}
+
+.k{
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #4169E1 solid 3px;
+    background-color: #4169E1;
+    color: black;
+    display: inline-flex;
+}
+
+a:visited{
+    color: black;
+}
+
+.ddfg:visited {
+    color: rgb(0, 139, 139);
+}
+
+.logo{
+display: inline-block;
+}
+
+.menu{
+    display: inline-block;
+    }
+.ewr{
+    text-align: center;
+}
+.erd{
+    text-align: center;
+    display: inline-flex;
+}
+.erd1{
+    display: inline-flex;
+}
+.erd2{
+    display: inline-flex;
+    text-align: left;
+}
+
+.ery{
+    text-align: center;
+    display: inline-flex;
+}
+.ery1{
+    display: inline-flex;
+}
+.ery2{
+    display: inline-flex;
+    text-align: left;
+}
+
+.eru{
+    text-align: center;
+    display: inline-flex;
+}
+.eru1{
+    display: inline-flex;
+}
+.eru2{
+    display: inline-flex;
+    text-align: left;
+}
+.photo{
+    margin-top: 5px;
+}
